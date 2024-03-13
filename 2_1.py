@@ -1,0 +1,2 @@
+zmienna = "uwu"
+print(zmienna)
