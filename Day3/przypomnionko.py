@@ -14,5 +14,6 @@ print(motomoto)
 motomoto.insert(69,"hehe 69")
 print(motomoto)
 print(motomoto[4])
-motomoto.remove("siusiak:3")
+motomoto.remove("siusiak:3") 
 print(motomoto)
+#dobra jest w miarę git :3

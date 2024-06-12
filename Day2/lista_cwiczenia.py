@@ -1,1 +1,1 @@
-lista_gosci = ["wiktoria", "klaudia", "astryda"]
+lista_gosci = ["wiktoria", "klaudia", "UwU"]

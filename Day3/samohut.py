@@ -16,4 +16,4 @@ print(f"{sorted(cars)} \n{cars} \n{sorted(cars, reverse=True)}")
 cars.reverse()
 print(cars)
 cars.reverse()
-print(len(cars))
+print(len(cars)) #funkcja len() zwraca wielkość listy licząc od 1 czyli jak jest 6 to jest 6 i chuj
