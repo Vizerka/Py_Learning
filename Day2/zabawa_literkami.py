@@ -14,7 +14,7 @@ tytul = "I'll call You Mine"
 print(f"{ulub_artysta} w utworze {tytul}: {cytat}")
 
 #stripowanie ciągu znaków
-imionko3 = "\tAstrydka Wiktoria Lisienko\t"
+imionko3 = "\tWiktoria Roksana Kowalska\t"
 print(f"{imionko3} imionko bez usuwania znaków")
 print(f"{imionko3.lstrip()} imionko lstrip")
 print(f"{imionko3.rstrip()} imionko rstrip")

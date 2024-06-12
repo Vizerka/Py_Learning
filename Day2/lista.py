@@ -14,7 +14,7 @@ print(lista[-1])
 print(f"Moim pierwszym wpisem na liście jest '{lista[0].upper()}'")
 
 #kilka kolejnych ćwiczeń z listami
-imionka = ['wiktoria', 'astryda', 'klaudia', 'felicja']
+imionka = ['wiktoria', 'natalia', 'klaudia', 'felicja']
 print(f"Moja znajoma ma na imię {imionka[0].capitalize()}")
 print(f"Moja znajoma ma na imię {imionka[1].capitalize()}")
 print(f"Moja znajoma ma na imię {imionka[2].upper()}")
